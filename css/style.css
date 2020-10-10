@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* background-color: #9dada1; */
+  background-color: #f2f5f8;
+  font-family: "Roboto Slab", serif;
+  font-size: 10px;
+}
+
+img {
+  width: 260px;
+  height: 260px;
+}
+
+hr {
+  border: solid 1px #5fa6d7;
+  width: 100%;
+}
+.abtmeline {
+  border: solid 1px #e84f55;
+  width: 100%;
+}
+.bio {
+  background-color: #5fa6d7;
+  margin: 10px;
+  padding: 10px 20px;
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+  
+}
+h2 {
+  color: #e84f55;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+h5 {
+  font-weight: lighter;
+}
+.btn-outline-warning {
+  color: #5fa6d7;
+  border-color: #5fa6d7;
+}
+.btn-outline-warning:hover , .btn-outline-warning:active, .btn-outline-warning:focus{
+  color: black;
+  background-color:  #5fa6d7;
+  border-color: #5fa6d7;
+  outline-offset: 10px;
+
+}
+p {
+  letter-spacing: 1px;
+  font-weight: normal;
+  font-size: 15px;
+}
+.freshtext {
+ letter-spacing: 1px;
+ text-transform: uppercase;
+ color: #e84f55;
+ border-bottom: solid 1px #000;
+
+}
+/* .br {
+  border: #5fa6d7 10px;
+} */
+.aboutmebg {
+  height: fit-content;
+  border-radius: 10px;
+ 
+  color: black;
+ 
+  padding: 10px 10px;
+}
+.skills, .edu1, .projects, .achivements, .fasmicons {
+  color: black;
+}
+.fonticons {
+  color: #5fa6d7;
+}
+ .commonheadblue{
+ color:  #e84f55;
+
+}
+
+.abtmegridborder {
+  border-right: solid 1px #5fa6d7;
+}

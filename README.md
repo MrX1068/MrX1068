@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on Build a Porfolio Website.
+
+🌱 I’m currently learning Flutter Framework with Dart Language.
+
+💬 Ask me about any Doubt's.
+
+📫 How to reach me: 
+      
+      Email : buvaneshvaran1068@gmail.com
+      Instagram : mrx_1068
+      Telegram : https://t.me/mrx1068
+    
+⚡ Fun fact: 
+     
+      Life is Nothing , Nothing in Life is promised Excepted Death. 
+      Live Let Live.
+      Enjoy the Every Moment.

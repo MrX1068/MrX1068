@@ -11,25 +11,29 @@ body {
 }
 
 img {
-  width: 260px;
-  height: 260px;
+  width: 240px;
+  height: 240px;
 }
 
-hr {
+/* hr {
   border: solid 1px #5fa6d7;
-  width: 100%;
-}
+  width: 25%;
+} */
 .abtmeline {
   border: solid 1px #e84f55;
-  width: 100%;
+  width: 25%;
 }
 .bio {
   background-color: #5fa6d7;
+  height: fit-content;
   margin: 10px;
   padding: 10px 20px;
   border-bottom-left-radius: 25px;
   border-top-right-radius: 25px;
-  
+}
+.fullstacktext {
+  text-transform: capitalize;
+  letter-spacing: 1px;
 }
 h2 {
   color: #e84f55;
@@ -39,51 +43,84 @@ h2 {
 h5 {
   font-weight: lighter;
 }
-.btn-outline-warning {
+
+.btn-outline-info {
   color: #5fa6d7;
   border-color: #5fa6d7;
 }
-.btn-outline-warning:hover , .btn-outline-warning:active, .btn-outline-warning:focus{
-  color: black;
-  background-color:  #5fa6d7;
-  border-color: #5fa6d7;
-  outline-offset: 10px;
 
+.btn-outline-info:hover,
+.btn-outline-info:active,
+.btn-outline-info:focus {
+  color: black !important;
+  background-color: #5fa6d7 !important;
+  border-color: #5fa6d7;
 }
+
 p {
   letter-spacing: 1px;
   font-weight: normal;
   font-size: 15px;
 }
 .freshtext {
- letter-spacing: 1px;
- text-transform: uppercase;
- color: #e84f55;
- border-bottom: solid 1px #000;
-
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #e84f55;
 }
-/* .br {
-  border: #5fa6d7 10px;
-} */
+.allheadborder {
+  width: fit-content;
+  border-bottom: solid 2px #5fa6d7;
+}
 .aboutmebg {
   height: fit-content;
   border-radius: 10px;
- 
+
   color: black;
- 
+
   padding: 10px 10px;
 }
-.skills, .edu1, .projects, .achivements, .fasmicons {
+.skills,
+.edu1,
+.projects,
+.achivements,
+.fasmicons,
+.languages,
+.hobbies,
+.experience,.certificates {
   color: black;
 }
 .fonticons {
   color: #5fa6d7;
 }
- .commonheadblue{
- color:  #e84f55;
-
+.langsub {
+  color: #5fa6d7;
+  font-size: 12px;
+  font-weight: 400;
+}
+.commonheadred {
+  color: #e84f55;
+  text-transform: capitalize;
+  letter-spacing: 1px;
 }
 
-.abtmegridborder {
-  border-right: solid 1px #5fa6d7;
+.downloadmyresume {
+  /* background-color: #5fa6d7; */
+  width: 100%;
+  height: fit-content;
+  margin-top: 50px;
+  padding: 10px 20px;
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+.btn-link {
+  text-decoration: none;
+  align-items: center;
+  color: #e84f55;
+  border-color: #e84f55;
+}
+.btn-link:hover,.btn-link:focus,.btn-link:active {
+  color: black;
+  text-decoration: none;
+  border-color: #5fa6d7 !important;
+  background-color: #e84f55 !important; 
 }

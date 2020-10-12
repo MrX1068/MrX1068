@@ -3,82 +3,98 @@
   padding: 0;
 }
 
+/*body style with background color and font family*/
 body {
-  /* background-color: #9dada1; */
-  background-color: #f2f5f8;
+  background-color: #fafafa;
   font-family: "Roboto Slab", serif;
   font-size: 10px;
 }
 
+/* profile picture design */
 img {
+  margin: 10px 0;
   width: 240px;
   height: 240px;
 }
 
-/* hr {
-  border: solid 1px #5fa6d7;
-  width: 25%;
-} */
+/* about me line ( red line ) */
 .abtmeline {
   border: solid 1px #e84f55;
   width: 25%;
 }
+
+/* bio intro with Name, Department Name, Short intro About me */
 .bio {
   background-color: #5fa6d7;
   height: fit-content;
-  margin: 10px;
-  padding: 10px 20px;
-  border-bottom-left-radius: 25px;
-  border-top-right-radius: 25px;
+  margin: 10px 15px;
+  padding: 10px 10px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
+
+/* fullstackdeveloper text */
 .fullstacktext {
   text-transform: capitalize;
   letter-spacing: 1px;
 }
+
+/* heading (h2) designs */
 h2 {
   color: #e84f55;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
+
+/* heading (h5) designs */
 h5 {
   font-weight: lighter;
 }
 
+/* button deisgn for skills, Tools, Operating Systems */
 .btn-outline-info {
-  color: #5fa6d7;
+  color: #000;
   border-color: #5fa6d7;
+  background-color: #5fa6d7 !important;
 }
 
+/* button hover, click, focus deisgns for skills, Tools, Operating Systems */
 .btn-outline-info:hover,
 .btn-outline-info:active,
 .btn-outline-info:focus {
-  color: black !important;
-  background-color: #5fa6d7 !important;
-  border-color: #5fa6d7;
+  color: white !important;
+  background-color: #e84f55 !important;
+  border-color: #e84f55 !important;
 }
 
+/* paragraph tag design */
 p {
   letter-spacing: 1px;
   font-weight: normal;
   font-size: 15px;
 }
+
+/* fresher text */
 .freshtext {
   letter-spacing: 1px;
   text-transform: uppercase;
   color: #e84f55;
 }
+
+/* every underline code (red color line ) in every heading */
 .allheadborder {
   width: fit-content;
   border-bottom: solid 2px #5fa6d7;
 }
+
+/* about me content color and background */
 .aboutmebg {
   height: fit-content;
   border-radius: 10px;
-
   color: black;
-
-  padding: 10px 10px;
 }
+
+/* for black color */
 .skills,
 .edu1,
 .projects,
@@ -86,25 +102,33 @@ p {
 .fasmicons,
 .languages,
 .hobbies,
-.experience,.certificates {
+.experience,
+.certificates {
   color: black;
 }
+
+/* icon colors for example music icon, location icon, github icon etc etc */
 .fonticons {
   color: #5fa6d7;
 }
+
+/* sub title colors (for example year => 2014 - 2015) */
 .langsub {
   color: #5fa6d7;
   font-size: 12px;
   font-weight: 400;
 }
+
+/* all heading color (red color ) */
 .commonheadred {
   color: #e84f55;
+  margin-top: 15px;
   text-transform: capitalize;
   letter-spacing: 1px;
 }
 
+/* download my resume background white design */
 .downloadmyresume {
-  /* background-color: #5fa6d7; */
   width: 100%;
   height: fit-content;
   margin-top: 50px;
@@ -112,15 +136,74 @@ p {
   border-bottom-left-radius: 25px;
   border-top-right-radius: 25px;
 }
+
+/* mail and guthub color */
+#mail,
+#git,
 .btn-link {
   text-decoration: none;
-  align-items: center;
-  color: #e84f55;
-  border-color: #e84f55;
+  color: black;
 }
-.btn-link:hover,.btn-link:focus,.btn-link:active {
+
+/* github hover effect */
+#git:hover {
+  text-decoration: none;
+}
+
+/* download my resume button design */
+.btn-link {
+  align-items: center;
+  color: white;
+  border-color: #e84f55 !important;
+  background-color: #e84f55 !important;
+}
+
+/* download my resume button hover , active, focus designs */
+.btn-link:hover,
+.btn-link:focus,
+.btn-link:active {
   color: black;
   text-decoration: none;
   border-color: #5fa6d7 !important;
-  background-color: #e84f55 !important; 
+  background-color: #5fa6d7 !important;
 }
+
+/* tooltip for contact details designs */
+.tooltip-inner {
+  background-color: #5fa6d7;
+  color: #000;
+}
+.tooltip.bs-tooltip-right .arrow:before {
+  border-right-color: #5fa6d7 !important;
+}
+.tooltip.bs-tooltip-left .arrow:before {
+  border-left-color: #5fa6d7 !important;
+}
+.tooltip.bs-tooltip-bottom .arrow:before {
+  border-bottom-color: #5fa6d7 !important;
+}
+.tooltip.bs-tooltip-top .arrow:before {
+  border-top-color: #5fa6d7 !important;
+}
+
+/* social media icon color in bottom of the page */
+#socialmediaicon {
+  color: #5fa6d7;
+}
+
+/* social media icon color with hover , focus , active effects in bottom of the page */
+#socialmediaicon:hover,
+#project_links:hover {
+  color: #e84f55;
+  text-decoration: none;
+}
+
+/* project documents sub text ... project document , projects ppt , project journal , journal certificate text size nd weight with opacity */
+.prjsublinkcolor {
+  font-size: 12px;
+  font-weight: 400;
+  opacity: 0.7;
+}
+
+/* End of The Project */
+/* Thank You  :) :) :) */

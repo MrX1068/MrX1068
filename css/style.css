@@ -26,7 +26,12 @@ img {
 @media screen and (max-width:600px) {
   img { 
      display: none;
-    }}
+    }
+body {
+   background-color: #000;
+}
+}
+
 /* bio intro with Name, Department Name, Short intro About me */
 .bio {
   background-color: #5fa6d7;

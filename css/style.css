@@ -23,13 +23,10 @@ img {
   width: 25%;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
   img { 
      display: none;
     }
-body {
-   background-color: #000;
-}
 }
 
 /* bio intro with Name, Department Name, Short intro About me */

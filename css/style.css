@@ -17,23 +17,27 @@ img {
   height: 240px;
 }
 
+@media screen and (max-width : 600px) {
+  img {
+    display: none;
+  }
+  .freshtext {
+    margin-top: 30px;
+   
+  }
+}
+
 /* about me line ( red line ) */
 .abtmeline {
   border: solid 1px #e84f55;
   width: 25%;
 }
 
-@media screen and (max-width: 600px) {
-  img { 
-     display: none;
-    }
-}
-
 /* bio intro with Name, Department Name, Short intro About me */
 .bio {
   background-color: #5fa6d7;
   height: fit-content;
-  margin: 10px 15px;
+  margin: 15px 15px;
   padding: 10px 10px;
   border-bottom-left-radius: 20px;
   border-top-right-radius: 20px;
@@ -137,16 +141,17 @@ p {
 .downloadmyresume {
   width: 100%;
   height: fit-content;
-  margin-top: 50px;
+  margin-top: 20px;
   padding: 10px 20px;
   border-bottom-left-radius: 25px;
   border-top-right-radius: 25px;
 }
 
+
 /* mail and guthub color */
 #mail,
 #git,
-.btn-link {
+.btn-link,#download {
   text-decoration: none;
   color: black;
 }
@@ -159,7 +164,7 @@ p {
 /* download my resume button design */
 .btn-link {
   align-items: center;
-  color: white;
+  color: white !important;
   border-color: #e84f55 !important;
   background-color: #e84f55 !important;
 }
@@ -168,7 +173,7 @@ p {
 .btn-link:hover,
 .btn-link:focus,
 .btn-link:active {
-  color: black;
+  color: black !important;
   text-decoration: none;
   border-color: #5fa6d7 !important;
   background-color: #5fa6d7 !important;

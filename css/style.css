@@ -17,13 +17,12 @@ img {
   height: 240px;
 }
 
-@media screen and (max-width : 600px) {
-  img {
-    display: none;
-  }
+@media screen and (max-width: 600px) {
   .freshtext {
     margin-top: 30px;
-   
+  }
+   img {
+    display: none;
   }
 }
 
@@ -31,6 +30,7 @@ img {
 .abtmeline {
   border: solid 1px #e84f55;
   width: 25%;
+
 }
 
 /* bio intro with Name, Department Name, Short intro About me */
@@ -46,7 +46,7 @@ img {
 /* fullstackdeveloper text */
 .fullstacktext {
   text-transform: capitalize;
-  letter-spacing: 1px;
+  letter-spacing: 5px;
 }
 
 /* heading (h2) designs */
@@ -62,19 +62,23 @@ h5 {
 }
 
 /* button deisgn for skills, Tools, Operating Systems */
-.btn-outline-info {
-  color: #000;
-  border-color: #5fa6d7;
+.btn-info {
+  color: #000 !important;
+  border-color: #5fa6d7 !important;
   background-color: #5fa6d7 !important;
 }
 
 /* button hover, click, focus deisgns for skills, Tools, Operating Systems */
-.btn-outline-info:hover,
-.btn-outline-info:active,
-.btn-outline-info:focus {
+.btn-info:hover{
   color: white !important;
   background-color: #e84f55 !important;
   border-color: #e84f55 !important;
+}
+.btn-info:active,
+.btn-info:focus {
+color: black !important;
+ border-color: #5fa6d7 !important;
+  background-color: #5fa6d7 !important;
 }
 
 /* paragraph tag design */
@@ -147,11 +151,11 @@ p {
   border-top-right-radius: 25px;
 }
 
-
 /* mail and guthub color */
 #mail,
 #git,
-.btn-link,#download {
+.btn-link,
+#download {
   text-decoration: none;
   color: black;
 }
@@ -217,4 +221,8 @@ p {
 }
 
 /* End of The Project */
+
 /* Thank You  :) :) :) */
+
+
+

@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Build a Porfolio Website.
-
-🌱 I’m currently learning Flutter Framework with Dart Language.
+🔭 Front end developer with advanced skills ( Html, css, bs, js, react , materialUi )
 
 💬 Ask me about any Doubt's.
 
@@ -28,6 +26,6 @@ Here are some ideas to get you started:
     
 ⚡ Fun fact: 
      
-      Life is Nothing , Nothing in Life is promised Excepted Death. 
+      Life is Nothing , Nothing in Life is promised Except Death. 
       Live Let Live.
       Enjoy the Every Moment.

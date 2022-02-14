@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Front end developer with advanced skills ( Html, css, bs, js, react , materialUi )
+🔭 Full stack developer with advanced skills ( Html, css, bs, js, react , Node js, Mongo Db, Express, Java, NoSql , MySql, materialUi )
 
 💬 Ask me about any Doubt's.
 
@@ -26,6 +26,5 @@ Here are some ideas to get you started:
     
 ⚡ Fun fact: 
      
-      Life is Nothing , Nothing in Life is promised Except Death. 
       Live Let Live.
       Enjoy the Every Moment.

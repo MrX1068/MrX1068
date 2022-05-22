@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Full stack developer with advanced skills ( Html, css, bs, js, react , Node js, Mongo Db, Express, Java, NoSql , MySql, materialUi )
+🔭 Full stack developer with advanced skills ( Html, css, bs, js, react , AntD, Node js, Mongo Db, Express, Java, NoSql , MySql, materialUi )
 
 💬 Ask me about any Doubt's.
 

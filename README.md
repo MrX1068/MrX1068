@@ -14,17 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Full stack developer with advanced skills ( Html, css, bs, js, react, react native, AntD, Node js, Mongo Db, Express, Java, NoSql , MySql, materialUi )
 
-💬 Ask me about any Doubt's.
+Hi, I’m a React | Redux | JavaScript | Frontend | Web | Developer with an interest in building Perfect Websites. For over 3+ years, I’ve been Learning about different technologies and keeping myself updated with the upcoming trends and technologies in the industry.
 
-📫 How to reach me: 
-      
-      Email : buvaneshvaran1068@gmail.com
-      Instagram : mrx_1068
-      Telegram : https://t.me/mrx1068
-    
-⚡ Fun fact: 
-     
-      Live Let Live.
-      Enjoy the Every Moment.
+
+Technologies / Frameworks that I have worked on:
+
+React js
+Redux
+Node js
+Redux Thunks
+React Router
+Javascript ES6
+React Native
+Html 5
+Css 3
+Bootstrap
+Antd Design
+PHP
+JAVA (Spring and spring boot)

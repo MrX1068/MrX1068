@@ -14,10 +14,27 @@ I'm a passionate **Full Stack Developer** specializing in building seamless digi
 
 ---
 
+## 📌 Pinned Projects
+
+> Want to see my best work?  
+> **Check out my pinned repositories at the top of this profile!**  
+> (To pin your own projects, visit your GitHub profile and use the "Customize your pins" option.)
+
+---
+
 ## 🌟 My Favorite Projects
 
 - **Full Stack CRM Applications:** Designing and building comprehensive CRM tools that make managing business relationships a breeze.
 - **UI/UX Components:** Integrating and customizing UI libraries, especially those by [shadcn](https://github.com/shadcn/ui), to deliver delightful user experiences.
+
+---
+
+## 🏅 GitHub Stats & Activity
+
+![MrX1068's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrX1068&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrX1068&layout=compact&theme=radical)
+
+![Profile Visitors](https://komarev.com/ghpvc/?username=MrX1068&color=blueviolet&style=flat-square)
 
 ---
 
@@ -42,6 +59,7 @@ I'm a passionate **Full Stack Developer** specializing in building seamless digi
 
 - [LinkedIn](https://www.linkedin.com/in/buvanesh1068)
 - [Personal Website](https://mrx1068.github.io/MrX/)
+- 📧 Email: [buvaneshvaran1068@gmail.com](mailto:buvaneshvaran1068@gmail.com)
 
 ---
 
